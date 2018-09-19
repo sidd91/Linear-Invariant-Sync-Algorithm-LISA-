@@ -3,7 +3,7 @@
 // Author      : sid
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : LISA program for CMPE 245
 //============================================================================
 
 #include <iostream>
